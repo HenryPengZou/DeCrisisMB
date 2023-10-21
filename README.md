@@ -1,6 +1,9 @@
 # DeCrisis: A Study of Debiased Semi-Supervised Learning for Crisis Tweet Classification
 
-![Task](images/MemoryBank.jpg)
+<!-- ![Task](images/MemoryBank.jpg) -->
+<div align="center">
+  <img src="images/MemoryBank.jpg" alt="Task" width="300">
+</div>
 
 This repository contains the implementation of the paper:
 > **DeCrisis: A Study of Debiased Semi-Supervised Learning for Crisis Tweet Classification** 
@@ -55,7 +58,6 @@ python panel_ODomain.py
 ```
 Specify the log location and model saving location if you need, e.g., log_home = './experiment/hurricane' in panel_main.py and output_dir_path = './experiment/hurricane' in main.py. 
 
-If you would like adapt our code to your custom dataset, please modify the 'target_list' variable and your Dataset class in main.py, e.g., target_list = ['hurricane']. Feel free to contact us if you needs any help.
 
 ## Bugs or Questions
 
