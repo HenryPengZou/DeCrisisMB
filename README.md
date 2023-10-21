@@ -2,7 +2,7 @@
 
 <!-- ![Task](images/MemoryBank.jpg) -->
 <div align="center">
-  <img src="images/MemoryBank.jpg" alt="Task" width="350">
+  <img src="images/MemoryBank.jpg" alt="Task" width="300">
 </div>
 
 This repository contains the implementation of the paper:
