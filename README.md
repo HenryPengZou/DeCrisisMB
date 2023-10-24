@@ -6,8 +6,8 @@
 </div>
 
 This repository contains the implementation of the paper:
-> **DeCrisis: A Study of Debiased Semi-Supervised Learning for Crisis Tweet Classification** 
-> [[Paper]]()  <br>
+> **DeCrisisMB: Debiased Semi-Supervised Learning for Crisis Tweet Classification via Memory Bank** 
+> [[Paper]](https://arxiv.org/pdf/2310.14577.pdf) [[arXiv]](https://arxiv.org/abs/2310.14577)  <br>
 > Findings of the Association for Computational Linguistics: EMNLP 2023 <br>
 > Henry Peng Zou, Yue Zhou, Weizhi Zhang, Cornelia Caragea <br>
 
