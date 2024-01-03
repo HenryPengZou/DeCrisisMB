@@ -86,3 +86,4 @@ If you find this repository helpful, please consider citing our paper 💕:
 
 ## Acknowledgement
 This repo borrows some data and codes from [DebiasPL](https://github.com/frank-xwang/debiased-pseudo-labeling) and [USB](https://github.com/microsoft/Semi-supervised-learning). We appreciate their great works.
+Besides, welcome to check out our other work in semi-superivsed learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
